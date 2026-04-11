@@ -1,0 +1,8 @@
+{
+  "arc": "Open by naming the tension between automation and authorship. Develop through two middle beats: how prompts map to story beats, then how revision cycles differ from solo writing. Close with guardrails: attribution, bias, and when not to use generated dialogue verbatim.",
+  "slide_beats": [
+    { "slide_index": 1, "beat": "Establish topic and speaker stance" },
+    { "slide_index": 2, "beat": "Contrast classic structure with AI-in-the-loop drafting" },
+    { "slide_index": 3, "beat": "Show pipeline and feedback loop as the core metaphor" }
+  ]
+}

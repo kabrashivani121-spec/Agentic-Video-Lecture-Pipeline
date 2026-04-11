@@ -1,0 +1,17 @@
+[
+  {
+    "slide_index": 1,
+    "description": "Title slide: course name and lecture topic on AI screenplays.",
+    "narration": "Welcome. Today we are looking at how AI fits into screenplay work—what it can speed up, and what still needs a human eye."
+  },
+  {
+    "slide_index": 2,
+    "description": "Bullet list contrasting traditional screenplay structure with AI-assisted workflows.",
+    "narration": "Classic structure still matters: acts, beats, scenes. The shift is where drafting and variation enter the loop, not whether structure exists."
+  },
+  {
+    "slide_index": 3,
+    "description": "Diagram of a pipeline from prompt to draft scenes with feedback loops.",
+    "narration": "Think of this as a pipeline: prompt, draft, critique, revise. The feedback loop is where quality usually improves—not in the first generation."
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "thesis": "AI can speed up screenplay iteration while human judgment remains essential for story and character.",
+  "hook": "Draft faster, revise smarter—but know when the machine is wrong.",
+  "audience": "Students with basic familiarity with film structure and generative models.",
+  "deck_grounding": "Slides move from title through structure contrasts to a concrete pipeline diagram, matching a thesis about tooling plus judgment.",
+  "premise": "This lecture argues that AI tools can accelerate screenplay iteration without replacing human judgment about story and character. The audience is students who have basic familiarity with film structure and generative models."
+}

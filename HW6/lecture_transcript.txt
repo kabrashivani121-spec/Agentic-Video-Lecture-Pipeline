@@ -1,0 +1,5 @@
+Welcome to today’s session on AI and screenplays. We’ll start with how traditional three-act structure still grounds good stories, even when drafting tools change.
+
+Next, we’ll walk through a simple pipeline: prompt, generated scene, critique, and revision. The goal is not perfect first drafts—it is faster iteration with human judgment on character and theme.
+
+Finally, we’ll talk about limits: when generated dialogue needs heavy editing, and how to document sources and collaborators responsibly.
